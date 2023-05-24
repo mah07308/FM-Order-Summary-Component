@@ -157,6 +157,11 @@ footer {
 
   .card {
     max-width: 28rem;
+    border-radius: 1rem;
+  }
+
+  .hero-image {
+    border-radius: 1rem 1rem 0 0;
   }
 
   .text-summary {
